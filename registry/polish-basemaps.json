@@ -1,0 +1,11 @@
+{
+  "id": "polish-basemaps",
+  "source": {
+    "url": "https://github.com/PawelKra/polish-basemaps/releases/download/v0.1.0/polish-basemaps-0.1.0.rgplugin",
+    "sha256": "6b980ebc0f8455aa65bafb1cebe2e1a7729ef4fd4f48cb0c932fad58d67f4f5b"
+  },
+  "categories": [
+    "Basemaps",
+    "Data"
+  ]
+}
